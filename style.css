@@ -85,6 +85,6 @@ body.header.nav {
   color: red;
 }
 
-footer{
+footer > div > p {
   text-align: center;
 }
